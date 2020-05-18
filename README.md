@@ -1,6 +1,6 @@
 
 
-# ADOP Pluggable SCM Library
+# MDOP Pluggable SCM Library
 
 This library provides a mechanism to create SCM provider agnostic Job DSL SCM/trigger closures.
 
